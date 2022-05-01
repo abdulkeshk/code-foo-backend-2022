@@ -3,7 +3,7 @@
 Hi! My name is Abdulrahman Keshk. I am a Computer Science student at SUNY, with a deep passion for video games. I have been following IGN on YouTube to keep up with gaming content. I chose to participate in Code Foo on Apr. 29th as I was searching online for internship opportunities. Despite the late start, I decided to try my best and complete as much as possible. I learned a lot during this short time span, and any feedback would be highly appreciated.
 
 
-# Project Details
+# My Introduction: Project Details
 
 I chose to write a **backend** service in **Java** to parse the provided CSV Data, clean the data, and push it into a local **PostgresSQL** database. Then have a **REST API in Spring Boot** to search for records in the database, with filtering options. The IDE used is **IntelliJ**, where all code was written and the local PostgresSQL db was created.
 
