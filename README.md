@@ -75,6 +75,9 @@ This project was built in **IntelliJ**, where we can go to ``File -> Open Projec
 
 For Demo purposes, let's see the **Main.java** code run and validate the data is in our DB. Since the REST API is incomplete, no demo is provided but the code is explained in the project structure section.
 
+https://youtu.be/0IHgnBNiqmc
+
+
 ## Incomplete Work
 
 Since I worked on this for 1-2 days, I could only handle reading the CSV file, cleaning data, and pushing records into the database. Meanwhile the REST API was incomplete. The API runs locally, and has the 3 endpoints setup. But ultimately, the API does not return any real values to the user hitting those endpoints. I think it would be fun to continue working on this project just to show on my resume.
